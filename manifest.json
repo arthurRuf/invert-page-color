@@ -1,0 +1,23 @@
+{
+  "manifest_version": 2,
+
+  "name": "Invert Color",
+  "description": "This is a Chrome Extension to bypass the Chrome Flag #enable-force-dark when you click the extension",
+  "version": "0.1",
+  "author":"Arthur Ruf Hosang da Costa",
+  "icons": {
+    "128": "xr.png"
+  },
+  "permissions": [
+  "activeTab",
+  "tabs",
+        "notifications"
+],
+       "background":{
+            "scripts":["xr.js"]
+        },
+  "browser_action": {
+    "default_icon": "xr.png"
+  },
+  "incognito" : "split"    
+}
