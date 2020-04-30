@@ -3,7 +3,7 @@ This is a Chrome Extension to bypass the Chrome Flag #enable-force-dark when you
 
 
 # Instalation
-To install this extension simply follow Arjun Singh's tutorial:
+To install this extension, please follow Arjun Singh's tutorial:
 
 https://webkul.com/blog/how-to-install-the-unpacked-extension-in-chrome/
 
