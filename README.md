@@ -1,5 +1,5 @@
 # invert-page-color
-This is a Chrome Extension to bypass the Chrome Flag #enable-force-dark when you click the extension
+This is a Chrome Extension to bypass the Chrome Flag #enable-force-dark when you click the extension, so you can disable this flag for a specific page.
 
 
 # Instalation
